@@ -306,6 +306,7 @@ ul li p {
     background-repeat: no-repeat;
     background-color: #ffeefe;
     background-size: cover;
+    border-radius: 0 0 10px 10px;
 }
 
 .contacts p {
